@@ -1,14 +1,370 @@
-key;en;nl;FR
-joker;Heath Ledger;Jeroom;Allez, l'OM!
-king;Freddie Mercury;?!#@*^&%"'`{}[]();Vive la republique!
-queen;Marilyn Monrie;Elio di Rupo;Jeanne d'Arc
-jack;Ashton Kutcher; ; ?
-9;nine;negen;neuf
-8;eight;acht;huit
-7;seven;zeven;sept
-6;six;zes;six
-5;five;vijf;cinq
-4;four;vier;quattre
-3;three;drie;trois
-2;two;twee;deux
-1;Ace;Aas;
+key;bg
+English;Bulgarian
+(none);(нито един)
+{0} km;{0} km
+{0} mi.;{0} mi.
+{1}: The number of dealers found;{1}: Броят на намерените дилъри
+{1}: The number of files found;{1}: Броят на намерените файлове
+{2}: The distance searched;{2}: Търсеното разстояние
+{3}: The postal code searched;{3}: Търсеният пощенски код
+{3}: The search text entered by the user;{3}: Текстът за търсене, въведен от потребителя
+Action;Действие
+Albania;Албания
+Algeria;Алжир
+All form fields are required.;Всички полета за формуляри са необходими.
+Also Fits;Също се побира
+Andorra;Андора
+Angola;Ангола
+Apply Filter;Нанесете филтър
+Apply Filters;Прилагайте филтри
+Aspiration;Аспирация
+Attribute;Атрибут
+Austria;Австрия
+Availability;Наличност
+Axle;Ос
+AXLE GROUP;Група на оси
+Back;обратно
+Back to {0};Обратно към {0}
+Back to All Symptoms;Обратно към всички симптоми
+Back To Product List;Обратно към списъка с продукти
+Bahrain;Бахрейн
+Belarus;Беларус
+Belgium;Белгия
+Benin;Бенин
+Bore;Отвор
+Bosnia And Herzegovina;Босна и Херцеговина
+Botswana;Ботсвана
+Brand;Марка
+Browse Parts;Разгледайте части
+Bulgaria;България
+Bulletins;Бюлетини
+Burkina Faso;Буркина Фасо
+Burundi;Бурунди
+Cameroon;Камерун
+Canada;Канада
+Cape Verde;Кабо Верде
+CC ((refers to cubic centimeters, in engine displacement parlance));CC ((се отнася до кубически сантиметри, в езика за изместване на двигателя))
+Central African Republic;Централноафриканска република
+Chad;Чад
+Choose Filter;Изберете филтър
+City;Град
+City Or Postal Code;Град или пощенски код
+Click to remove.;Щракнете, за да премахнете.
+Close;Близо
+Close filters;Затвори филтри
+Close specification search;Затворете търсенето на спецификации
+Commercial Vehicles;Търговски превозни средства
+Comoros;Коморос
+Consumer;Консуматор
+Country;Държава
+Croatia;Хърватия
+Cylinder;Цилиндър
+Cylinders;Цилиндри
+Cyprus;Кипър
+Czech Republic;Чехия
+Deactivated Part text not set in global configs;Текстът на дезактивирана част не е зададен в глобални конфигурации
+Democratic Republic Of The Congo;Демократична република Конго
+Denmark;Дания
+Description;Описание
+Distance;Разстояние
+Distributors;Дистрибутори
+Djibouti;Джибути
+Download {0};Изтеглете {0}
+Download Files Button has not been configured;Бутонът за изтегляне на файлове не е конфигуриран
+Drag Link Image components to add to Link Image Bar;Плъзнете компонентите на изображението на връзката, за да добавите към лентата за връзки изображения
+Egypt;Египет
+Email;електронна поща
+Email Address;Имейл адрес
+Engine;Двигател
+Engine code:;Код на двигателя:
+ENGINE GROUP;ДВИГАТЕЛНА ГРУПА
+Engine Manufacturer;Производител на двигатели
+Enter the parameters you know to find your engine.;Въведете параметрите, които знаете, за да намерите своя двигател.
+Enter Your Unique Code;Въведете своя уникален код
+Equatorial Guinea;Екваториална Гвинея
+Eritrea;Еритрея
+Estonia;Естония
+Ethiopia;Етиопия
+Europe, Middle East, Africa;Европа, Близкия изток, Африка
+Existing filters active for this search:;Съществуващи филтри, активни за това търсене:
+Expert Advice;Експертен съвет
+FAQs;Често задавани въпроси
+Faroe Islands;Фарьорските острови
+Features;Характеристика
+Federal-Mogul;Федерален-магьосник
+Filter;Филтър
+Find Parts;Намерете части
+Find Parts by:;Намерете части от:
+Find Parts for A Previously Entered Vehicle;Намерете части за предварително въведено превозно средство
+Find parts for a previously entered vehicle;Намерете части за предварително въведено превозно средство
+Find stores and repair shops in:;Намерете магазини и ремонтни магазини в:
+Finland;Финландия
+First;Първо
+First Name;Първо име
+Fits:;Подхожда:
+Fits: Axle;Подхожда: ос
+Fits: Engine;Подхожда: двигател
+FM Part #;FM Част #
+FM Part Name;Име на част от FM
+Follow me @ {0};Следвайте ме @ {0}
+France;Франция
+FRONT;Фронт
+Fuel Type;Тип гориво
+Gabon;Габон
+Gambia;Гамбия
+Georgia;Джорджия
+Germany;Германия
+Ghana;Гана
+Gibraltar;Гибралтар
+Go to Page Properties to configure global content;Отидете на Page Properties, за да конфигурирате глобалното съдържание
+Greece;Гърция
+Guernsey;Гърнси
+Guinea;Гвинея
+Guinea Bissau;Гвинея Бисау
+Header messages (other than the default) may contain the following placeholders to be replaced with dynamic values from the user's search:;Заглавните съобщения (различни от по подразбиране) могат да съдържат следните заместители, които да бъдат заменени с динамични стойности от търсенето на потребителя:
+Header messages may contain the following placeholders to be replaced with dynamic values from the user's search:;Заглавните съобщения могат да съдържат следните заместители, които да бъдат заменени с динамични стойности от търсенето на потребителя:
+Heavy Vehicles;Тежки превозни средства
+Home;У дома
+How do you want to find?;Как искате да намерите?
+http://www.instagram.com/moogparts;http://www.instagram.com/moogparts
+http://www.instagram.com/wagnerbrake;http://www.instagram.com/wagnerbrake
+https://instagram.com/championplugs/;https://instagram.com/championplugs/
+https://twitter.com/championplugs;https://twitter.com/championplugs
+https://twitter.com/FMmotorparts;https://twitter.com/fmmotorparts
+https://twitter.com/wagnerbrake;https://twitter.com/wagnerbrake
+https://www.facebook.com/ChampionSparkPlugs/;https://www.facebook.com/championsparkplugs/
+https://www.facebook.com/FMmotorparts?fref=ts;https://www.facebook.com/fmmotorparts?fref=ts
+https://www.facebook.com/FMmotorparts/;https://www.facebook.com/fmmotorparts/
+https://www.facebook.com/moogparts;https://www.facebook.com/moogparts
+https://www.facebook.com/wagnerbrake?_rdr;https://www.facebook.com/wagnerbrake?_rdr
+https://www.instagram.com/fmmotorparts/;https://www.instagram.com/fmmotorparts/
+https://www.snapchat.com/add/championplugs;https://www.snapchat.com/add/championplugs
+https://www.twitter.com/moogparts;https://www.twitter.com/moogparts
+https://www.youtube.com/channel/UCHG0iMdw5inMgvnXiOQS0YQ;https://www.youtube.com/channel/uchg0imdw5inmgvnxioqs0yq
+https://www.youtube.com/channel/UCHtQsnG75ioXSs1R9aJ_JdQ;https://www.youtube.com/channel/uchtqsng75ioxss1r9aj_jdq
+https://www.youtube.com/user/championautoparts;https://www.youtube.com/user/championautoparts
+https://www.youtube.com/user/MOOGProblemSolver;https://www.youtube.com/user/moogproblemsolver
+Hungary;Унгария
+Iceland;Исландия
+Include +/- 5% tolerance;Включете +/- 5% толерантност
+Include +/- 50cc tolerance;Включете +/- 50cc толеранс
+Include +/- 5mm tolerance;Включете +/- 5mm толеранс
+Interal Server Error;Interal сървърна грешка
+Interchanges;Размяна
+International;Международен
+Iran;Иран
+Iraq;Ирак
+Ireland;Ирландия
+Isle Of Man;Остров на човека
+Israel;Израел
+Italy;Италия
+Ivory Coast;Бряг на слоновата кост
+Jersey;Джърси
+Jordan;Йордания
+Kenya;Кения
+Kuwait;Кувейт
+kW ((abbreviation for kilowatt, in engine power rating parlance));KW ((Съкращение за Киловат, на езика за оценка на мощността на двигателя))
+Last;Последно
+Last Name;Фамилия
+Latest Tweet;Последно туит
+Latvia;Латвия
+Lebanon;Ливан
+Lesotho;Лесото
+Liberia;Либерия
+Libya;Либия
+License Plate;Регистрационен номер
+Liechtenstein;Лихтенщайн
+Light Vehicles;Леки превозни средства
+Link path and/or Image is not specified;Пътят и/или изображението на връзката не са посочени
+Link path not specified;Пътят на връзката не е посочен
+Lithuania;Литва
+LOADING;ЗАРЕЖДАНЕ
+loading...;Зареждане...
+Location;Местоположение
+Luxembourg;Люксембург
+Macedonia;Македония
+Madagascar;Мадагаскар
+Make;Направете
+Malawi;Малави
+Mali;Мали
+Malta;Малта
+Manufacturer;Производител
+Manufacturer Part #;Производител част #
+Mauritania;Мавритания
+Mauritius;Мавриций
+Model;Модел
+Moldova;Молдова
+Monaco;Монако
+Montenegro;Черна гора
+MORE INFO;ПОВЕЧЕ ИНФОРМАЦИЯ
+Morocco;Мароко
+MotNr;Motnr
+Mozambique;Мозамбик
+Namibia;Намибия
+Netherlands;Холандия
+Niger;Нигер
+Nigeria;Нигерия
+No error custom message exists for engine not found. Please update in Global Configs.;Не съществува грешка по поръчка за грешка за двигателя, което не е намерено. Моля, актуализирайте в глобалните конфигурации.
+No error custom message exists for incorrect vin format. Please update in Global Configs.;Не съществува персонализирано съобщение за грешка за неправилен VIN формат. Моля, актуализирайте в глобалните конфигурации.
+No error custom message exists for vin not found. Please update in Global Configs.;Не съществува грешка по поръчка за грешка за VIN не е намерено. Моля, актуализирайте в глобалните конфигурации.
+No Heavy Duty brands have been set. Please set them in Global Configs;Не са поставени тежки марки. Моля, задайте ги в глобални конфигурации
+No Instagram Photos to display. Ensure Instagram is configured and there are pictures to display.;Няма снимки в Instagram за показване. Уверете се, че Instagram е конфигуриран и има снимки за показване.
+No quotes found. Please add quotes through scaffolding mode in order for Random Quote component to display them.;Не са намерени цитати. Моля, добавете оферти чрез режим на скеле, за да ги покаже случаен компонент на офертата.
+No quotes found. Please add quotes through scaffolding mode in order for the Quotes component to display them.;Не са намерени цитати. Моля, добавете оферти чрез режим на скеле, за да ги покаже компонентът на офертите.
+No search label found. Please enter search label value in global configs.;Не е намерен етикет за търсене. Моля, въведете стойността на етикета за търсене в глобални конфигурации.
+No tips found. Please add tips through scaffolding mode in order for Random Tip component to display them.;Не са намерени съвети. Моля, добавете съвети през режим на скелета, за да ги покаже случаен компонент на върха.
+North America;Северна Америка
+Norway;Норвегия
+Not Found;Не е намерен
+of;на
+Oman;Оман
+Online Retailers;Онлайн търговци на дребно
+Online Store;Онлайн магазин
+Only Interchange Results text not set in global configs;Текстът само за обмен на резултати, които не са зададени в глобални конфигурации
+Oops! No results found.;Ами! Няма намерени резултати.
+or;или
+Other;Други
+Overview;Преглед
+Page;Страница
+Page path not specified;Пътят на страницата не е посочен
+Palestine;Палестина
+Part Attribute;Атрибут на част
+Part Cross References;ЧАСТ КРЪСНИ РЕФЕРЕНЦИИ
+Part Details has invalid or missing properties in global configs.;Подробности за частта имат невалидни или липсващи свойства в глобалните конфигурации.
+Part Filter Search - Refine not allowed for this Product Category and Product Application combination (spark plug and performance).;Търсене на филтър за части - Не е разрешено за тази категория на продукта и комбинация от приложение на продукта (Spark Plug и производителност).
+Part Filter Search - Refine requires that the current page have a Product Category tag.;Търсене на филтриране на части - изискват текущата страница да има маркер за категория продукти.
+Part Filter Search has invalid or missing properties in global configs.;Търсенето на филтър за части има невалидни или липсващи свойства в глобални конфигурации.
+Part Filter Search Results;Резултати от търсенето на филтриране на части
+Part Filter Search Results has invalid or missing properties in global configs.;Резултатите от търсенето на филтриране на части имат невалидни или липсващи свойства в глобалните конфигурации.
+Part Finder;Намиране на части
+Part Number;Номер на частта
+part number;номер на частта
+Part Number Search has invalid or missing properties in global configs.;Търсенето на номер на частта има невалидни или липсващи свойства в глобалните конфигурации.
+Part Number Search Results;Резултати от търсенето на номер на частта
+Part Number Search Results has invalid or missing properties in global configs.;Резултатите от търсенето на номера на частта имат невалидни или липсващи свойства в глобалните конфигурации.
+Part Number:;Номер на частта:
+Part Store/Counterperson;Магазин за части/колега
+Part Type;Тип част
+Parts;Части
+Parts Store;Магазин за части
+Parts Store and Repair Shop;Магазин за части и ремонт
+Person Headline requires data;Заглавието на лицето изисква данни
+Person Showcase requires data;Витрината на човека изисква данни
+Please add child pages to get navigation;Моля, добавете детски страници, за да получите навигация
+Please configure available part finder tabs in global configs;Моля, конфигурирайте наличните раздели за търсач на части в глобални конфигурации
+Please configure data sources to search for files;Моля, конфигурирайте източници на данни за търсене на файлове
+Please configure Google Maps in global configs.;Моля, конфигурирайте Google Maps в Global Configs.
+Please configure the Product Benefits to display.;Моля, конфигурирайте предимствата на продукта за показване.
+Please edit Tout Showcase properties to add heading &amp; path.;Моля, редактирайте свойствата на витрината на tout, за да добавите заглавие & amp; път.
+Please enter a videoID to get an embedded video.;Моля, въведете видеоид, за да получите вградено видео.
+Please enter twitter ID through the configuration dialog;Моля, въведете Twitter ID чрез диалоговия прозорец за конфигуриране
+Please select a valid page reference for this Header Lede;Моля, изберете валидна справка за страницата за този заглавие Lede
+Please select data paths for which to generate ledes;Моля, изберете пътища за данни, за които да генерирате Ledes
+Poland;Полша
+Portugal;Португалия
+Postal Code;пощенски код
+Postal or City;Пощенски или град
+Preffered Vendor;Предварителен доставчик
+Product;Продукт
+Product Line;Продуктова линия
+PS ((abbreviation for metric horsepower, in engine power rating parlance));PS ((Съкращение за метрични конски сили, в езика за оценка на мощността на двигателя))
+Qatar;Катар
+Quantity;Количество
+Read More;Прочетете още
+REAR;Отзад
+Refine Results;Прецизирайте резултатите
+Repair Shop;Магазин за поправка
+Repair Shop/Technician;Ремонтник/техник
+Results For Part Number text not set in global configs;Резултати за текст на номера на част не са зададени в глобални конфигурации
+Results will display when the page is requested with appropriate parameters.;Резултатите ще се показват, когато страницата е поискана с подходящи параметри.
+Romania;Румъния
+Russia;Русия
+Rwanda;Руанда
+San Marino;Сан Марино
+Sao Tome And Principe;Сао Том и Принсипи
+Saudi Arabia;Саудитска Арабия
+Search;Търсене
+Search by Specification;Търсене чрез спецификация
+See Application;Вижте приложението
+Select a value;Изберете стойност
+Select an attribute;Изберете атрибут
+Select Language;Избери език
+Senegal;Сенегал
+Serbia;Сърбия
+Share;Дял
+Slovakia;Словакия
+Slovenia;Словения
+Small Engines - Agricultural;Малки двигатели - селскостопански
+Small Engines - ATV;Малки двигатели - ATV
+Small Engines - Commercial;Малки двигатели - търговски
+Small Engines - Lawn and garden equipment;Малки двигатели - оборудване за морава и градина
+Small Engines - Marine;Малки двигатели - морски
+Small Engines - Motorcycle;Малки двигатели - мотоциклет
+Small Engines - Small Engine;Малки двигатели - малък двигател
+Small Engines - Snowmobile;Малки двигатели - моторни шейни
+Somalia;Сомалия
+Source content not entered.;Съдържанието на източника не е въведено.
+South Africa;Южна Африка
+Spain;Испания
+Specification Search;Търсене на спецификации
+Specifications;Спецификации
+Stores & Repair Shops;Магазини и ремонтни магазини
+Stroke;Удар
+Sub brand;Под марка
+Submit;Изпращане
+Subscribe;Абонирай се
+Sudan;Судан
+Swaziland;Свазиленд
+Sweden;Швеция
+Switzerland;Швейцария
+Syria;Сирия
+Tags;Етикети
+Tanzania;Танзания
+There are no active Promotional Contests to display;Няма активни промоционални конкурси за показване
+This component can be edited directly within the page.;Този компонент може да бъде редактиран директно в страницата.
+This component is automatically configured from the page properties.;Този компонент се конфигурира автоматично от свойствата на страницата.
+This component is configured globally.;Този компонент е конфигуриран в световен мащаб.
+This component requires no configuration.;Този компонент не изисква конфигурация.
+This field is required;Това поле е задължително
+This page was generated via a scaffold. Please switch to "Scaffolding" to edit the content of "{0}".;Тази страница беше генерирана чрез скеле. Моля, преминете към "Скелета", за да редактирате съдържанието на "{0}".
+Togo;Да отида
+Tunisia;Тунис
+Turkey;Турция
+Type;Тип
+Type of Store:;Тип магазин:
+Uganda;Уганда
+Ukraine;Украйна
+United Arab Emirates;Обединени арабски емирства
+United Kingdom;Великобритания
+United States;Съединени щати
+Value;Стойност
+Valves;Клапани
+Valves Per Engine;Клапани на двигател
+Variant;Вариант
+Vatican City;Ватикана
+Vehicle;Превозно средство
+VEHICLE GROUP;Група за превозни средства
+Vehicle Type;Тип превозно средство
+Video;Видео
+View;Преглед
+View {0};Преглед {0}
+View More;Виж повече
+VIN;Вин
+VIN #;Vin #
+Visit Website;Посетете уебсайта
+Warehouse Distributor/Retailer;Дистрибутор/търговец на складове
+Western Sahara;западна Сахара
+What type of customer are you?;Какъв тип клиент сте?
+When source values are not specified, cross sell will automatically obtain tags from the page properties.;Когато стойностите на източника не са посочени, Cross Sell автоматично ще получи маркери от свойствата на страницата.
+When this page is requested without appropriate parameters for the Part Filter Search, the user will be redirected to the Part Finder page.;Когато тази страница е поискана без подходящи параметри за търсенето на филтър за части, потребителят ще бъде пренасочен към страницата за търсене на част.
+When this page is requested without appropriate parameters for the Part Number Search, the user will be redirected to the Part Number Search page.;Когато тази страница е поискана без подходящи параметри за търсенето на номера на частта, потребителят ще бъде пренасочен към страницата за търсене на номера на частта.
+Where to Buy has invalid or missing properties in global configs.;Къде да купя има невалидни или липсващи свойства в глобалните конфигурации.
+Yemen;Йемен
+You may also select "Preview" to view components that utilize this scaffolded data, to see how they would render.;Можете също така да изберете „Визуализация“, за да видите компоненти, които използват тези скелета, за да видите как ще се представят.
+Your Engine;Вашият двигател
+Your Part;Вашата част
+Your Vehicle;Вашето превозно средство
+Zambia;Замбия
+Zimbabwe Rhodesia;Зимбабве Родезия
+Zip / Postal Code;ZIP / пощенски код
+ZIP/Postal Code;ZIP/пощенски код
